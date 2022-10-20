@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter project.
+A new Flutter project created by watching the YouTube "Flutter Tutorial for Beginners" videos created by Flutter Ninja Channel.
 
 ## Getting Started
 
